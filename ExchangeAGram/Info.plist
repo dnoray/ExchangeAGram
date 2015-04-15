@@ -36,6 +36,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationUsageDescription</key>
+	<string>ExchangeAGram would like to use your Location</string>
+	<key>NSLocationWhenInUsageDescription</key>
+	<string>ExchangeAGram would like to use your Location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>ExchangeAGram would like to use your Location</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
